@@ -7,8 +7,11 @@ You are supposed to take no more than an hour to an hour and a half to complete 
 code running is much less important than the architecture of the library. Pay close attention to
 the extensibility of your code!
 Requirements:
+
 ● You commit the code to an online public accessible Git repository (such as Github)
+
 ● Handle binary operations, e.g. 5 - 6, 8 * 4
+
 ● The calculator should be able to handle a full arithmetic expression at once, for
 example:, e.g. 1 + 1 - 4 * 4
 ● The library must take Order of Operations
