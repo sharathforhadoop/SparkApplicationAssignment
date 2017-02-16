@@ -41,9 +41,9 @@ Step 3: for precedence  –
 
 
 For operator precedence :    +-*
-Step 1: for precedence +
+ Step 1: for precedence + 
  5-5*112*45
-Step 2: for precendence –
-0*112*45
-Step 3: for precedence *
-0
+ Step 2: for precendence –
+ 0*112*45
+ Step 3: for precedence *
+ 0
