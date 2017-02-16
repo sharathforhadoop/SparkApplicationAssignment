@@ -53,11 +53,11 @@ For operator precedence :    +-*
 
  Step 1: for precedence + 
 
-5-5 * 112 * 45
+5-5 * 58 * 45
 
 Step 2: for precendence –
 
-0 * 112 * 45
+0 * 58 * 45
 
 Step 3: for precedence *
 
