@@ -31,11 +31,17 @@ output :
 --------------------
  
 For operator precedence :    *+- 
+
 Step 1 :  for precedence *
+
 2+3-280+90
+
 Step 2: for precedence  +
+
 5-370
+
 Step 3: for precedence  –
+
 -365
 
 
