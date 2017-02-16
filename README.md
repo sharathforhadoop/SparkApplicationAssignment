@@ -25,3 +25,25 @@ Objectives
 - Demonstrate skills in OOP code design
 - Showcase development best practices
 - Demonstrate good algorithmic thinking
+
+
+output :
+--------------------
+ 
+For operator precedence :    *+- 
+Step 1 :  for precedence *
+2+3-280+90
+Step 2: for precedence  +
+5-370
+Step 3: for precedence  –
+-365
+
+
+
+For operator precedence :    +-*
+Step 1: for precedence +
+ 5-5*112*45
+Step 2: for precendence –
+0*112*45
+Step 3: for precedence *
+0
