@@ -1,0 +1,15 @@
+public class CalculatorOperationImplementation implements CalculatorOperations {
+
+	public double add(double left, double right) {
+		return left+right;
+	}
+
+	public double substraction(double left, double right) {
+		return left-right;
+	}
+
+	public double multiplication(double left, double right) {
+		return left*right;
+	}
+
+}
