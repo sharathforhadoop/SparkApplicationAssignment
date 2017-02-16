@@ -30,6 +30,9 @@ Objectives
 output :
 --------------------
  
+for Input :
+2+3-5*56+2*45
+------------------------------------------
 For operator precedence :    *+- 
 
 Step 1 :  for precedence *
